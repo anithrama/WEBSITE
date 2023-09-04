@@ -1,0 +1,21 @@
+.a{
+    border: rgb(105, 16, 16);
+    background-color: brown;
+    color: white;
+}
+.b{
+    padding-left: 380px;
+    padding-top: 150px;
+    padding-bottom: 350px;
+    color: white;
+    background-color: rgb(117, 15, 15);
+    
+}
+.c{
+    background-color: rgb(117, 15, 15);
+    padding-top: 180px;
+    padding-bottom: 250px;
+    padding-left: 200px;
+    padding-right: 500px;
+    
+}
