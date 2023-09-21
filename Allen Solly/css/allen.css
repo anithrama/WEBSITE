@@ -1,0 +1,81 @@
+.r1{
+    background-color: gray;
+}
+
+.nav-item .nav-link{
+    color: black;
+}
+.r2{
+    border-bottom: 1px solid black;
+}
+.al{
+    color: rgb(21, 21, 83);
+    padding-top: 50px;
+   
+    margin-left: 50px;
+    
+}
+.r4{
+    background-color: bisque;
+}
+.ge{
+    color:rgb(117, 73, 15);
+    padding-left: 50px;
+}
+.asa{
+     background-color: yellow;
+     border: 1px solid rgb(128, 93, 47);
+     margin-left: -50px;
+     border-style: dashed;
+     text-align: center;
+    
+}
+.h{
+    width: 120px;
+    height: 170px;
+    padding-top: 80px;
+    margin-left: 170px;
+}
+.di{
+    text-align: center;
+}
+.dis{
+    color: rgb(14, 14, 99);
+}
+.st{
+    color: rgb(31, 31, 99);
+    margin-left: 400px;
+    text-align: center;
+}
+.co{
+    color: rgb(31, 31, 88);
+    
+
+    
+}
+.p1{
+    width:680px;
+    height: 750px;
+}
+.M{
+    color: rgb(156, 118, 13);
+    text-align: center;
+    margin-left: 100px;
+}
+.r5{
+    background-color: rgb(14, 14, 102);
+}
+.na{
+    background-color: rgb(14, 14, 102) ;
+    
+}
+.nav-item .c{
+    color: white;
+}
+.r6{
+    background-color: rgb(8, 8, 61);
+}
+.p2{
+    width: 700px;
+    height: 850px;
+}
