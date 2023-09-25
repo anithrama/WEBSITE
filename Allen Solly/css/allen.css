@@ -91,3 +91,38 @@
     width: 500px;
     height: 420px;
 }
+.p5{
+    margin-left: -250px;
+    margin-top: -280px;
+}
+.sh{
+    border: 1px solid rgb(255, 192, 203);
+    background-color: rgb(255, 192, 203);
+    padding-bottom: 50px;
+    text-align: center;
+    color: white;
+    
+   
+}
+.div1{
+    margin-left: 600px;
+    margin-top: -300px;
+    background-color: pink;
+    height: 250px;
+    width: 470px;
+    text-align: center;
+}
+/* .bl{
+     margin-left: 180px;
+     background-color: white;
+} */
+.m{
+    margin-left: 120px;
+}
+.sts{
+    background-color: white;
+    width: 100px;
+    height: 40px;
+    margin-left: 100px;
+    padding-top: 10px;
+}
