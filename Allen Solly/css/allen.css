@@ -106,6 +106,7 @@
 }
 .div1{
     margin-left: 600px;
+    
     margin-top: -300px;
     background-color: pink;
     height: 250px;
@@ -125,4 +126,68 @@
     height: 40px;
     margin-left: 100px;
     padding-top: 10px;
+}
+.bla{
+    margin-left:240px ;
+    margin-top: -45px;
+    background-color: white;
+    width: 100px;
+    height: 40px;
+}
+.of{
+    color: white;
+}
+.tr{
+    margin-left: 105px;
+    width: 100px;
+    height: 40px;
+    background-color: white;
+}
+/* .fa{
+    background-color: white;
+    margin-top: -280px;
+    margin-left: 100px;
+    width: 100px;
+    height: 40px;
+} */
+.tl{
+    color: rgb(16, 16, 66);
+    text-align: center;
+
+}
+.ea{
+    text-align: center;
+    background-color: yellow;
+    color: rgb(19, 19, 63);
+    width: 300px;
+    margin-left: 600px;
+    
+}
+.af{
+     margin-left: 300px;
+}
+.ref{
+    margin-left: 339px;
+    margin-top: -55px;
+    color: yellow;
+}
+.r10{
+    background-color: rgb(19, 19, 58);
+}
+.wit{
+    color: white;
+    margin-left:780px ;
+    margin-top:-55px ;
+}
+.divbtn{
+    margin-left: 1500px;
+    margin-top: -55px;
+}
+.vi{
+    text-align: center;
+    color:white;
+    background-color: rgb(7, 7, 44);
+    width: 500px;
+    height: 50px;
+    margin-left: 500px;
 }
